@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "Backend for task planner application",
   "main": "app.ts",
-  "repository": "https://github.com/annabasenyuk/planner_app-backend-",
+  "repository": "https://github.com/render-examples/express-hello-world",
   "author": "Render Developers",
   "license": "MIT",
   "private": false,
